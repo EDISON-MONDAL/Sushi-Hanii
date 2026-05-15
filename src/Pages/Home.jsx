@@ -152,7 +152,7 @@ const Home = () => {
                                     <Link to='/blog' className={twoColumnTextLink}>Learn More</Link>
                                 </div>
 
-                                <img className='shrink-0 h-[clamp(110px,40.5vw,158px)] xxs:h-[clamp(159px,28vw,178px)] sm:h-[clamp(150px,22vw,170px)] md:h-[clamp(170px,20vw,213px)] lg:h-[213px] w-[clamp(90px,45vw,170px)] xxs:w-[clamp(170px,34vw,200px)] sm:w-[clamp(130px,22vw,170px)] md:w-[clamp(170px,22vw,218px)] lg:w-[218px] mt-[-13px] sm:mt-[clamp(-5px,0vw,-4px)] md:mt-[clamp(-13px,0vw,-5px)] lg:mt-[-13px]' src={sushi10} ></img>
+                                <img className='shrink-0 h-[clamp(110px,40.5vw,158px)] xxs:h-[clamp(159px,28vw,178px)] sm:h-[clamp(150px,22vw,170px)] md:h-[clamp(170px,20vw,213px)] lg:h-[213px] w-[clamp(90px,45vw,170px)] xxs:w-[clamp(170px,34vw,200px)] sm:w-[clamp(130px,22vw,170px)] md:w-[clamp(170px,22vw,218px)] lg:w-[218px] mt-[-13px] sm:mt-[clamp(-5px,0vw,-4px)] md:mt-[clamp(-13px,0vw,-5px)] lg:mt-[-13px]' src={sushi9} ></img>
                             </div>
 
                         </div>
