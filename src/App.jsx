@@ -30,7 +30,7 @@ function App() {
           backgroundImage: `url(${bgBody})`,
         }} 
         onClick={(e) => {
-                            context.setShowChildMenu(false)
+                            setShowChildMenu(false)
                         }}       
       >
         <Routes>
